@@ -1,58 +1,86 @@
 [
     {
       "id": 1,
-      "name": "Helado sándwich de nata",
-      "image": "./img/sandwich-nata.jpg",
-      "extraInfo": "Caja 6 ud. (600 ml)",
-      "price": 1.2
+      "name": "Mani Cervecero",
+      "image": "./img/mani.jpg",
+      "extraInfo": "Frutos Secos",
+      "price": 4905
     },
     {
       "id": 2,
-      "name": "Helado cucurucho de vainilla",
-      "image": "./img/cucuruchos-vainilla.jpg",
-      "extraInfo": "Caja 6 ud. (720 ml)",
-      "price": 1.55
+      "name": "Arequipe Frescampo",
+      "image": "./img/arequipe.jpg",
+      "extraInfo": "Arequipe (250gr)",
+      "price": 5300
     },
     {
       "id": 3,
-      "name": "Helado cucurucho de vainilla",
-      "image": "./img/mini-surtido.jpg",
-      "extraInfo": "Caja 6 ud. (720 ml)",
-      "price": 1.55
+      "name": "BBC",
+      "image": "./img/BBC.png",
+      "extraInfo": "Caja 6 ud. (350 ml)",
+      "price": 19000
     },
     {
       "id": 4,
-      "name": "Helado mini doble sándwich nata",
-      "image": "./img/sandwich-doble.jpg",
-      "extraInfo": "Caja 6 ud. (480 ml)",
-      "price": 1.99
+      "name": "Doritos",
+      "image": "./img/doritos.jpg",
+      "extraInfo": "Doritos familiar (185 gr)",
+      "price": 1500
     },
     {
       "id": 5,
-      "name": "Helado de fresa",
-      "image": "./img/fresa-hielo.jpg",
-      "extraInfo": "Caja 10 ud. (750 ml)",
-      "price": 1.65
+      "name": "Galleta Tosh",
+      "image": "./img/galleta-tosh.png",
+      "extraInfo": "Cuatro Cereales (2 tacos)",
+      "price": 3500
     },
     {
       "id": 6,
-      "name": "Helado yogoice Mr. Toddy",
-      "image": "./img/yogoice.jpg",
-      "extraInfo": "Caja 8 ud. (450 ml)",
-      "price": 1.7
+      "name": "Lavaloza Salvo",
+      "image": "./img/lavaloza.png",
+      "extraInfo": "Triple poder (1.5 L)",
+      "price": 2800
     },
     {
       "id": 7,
-      "name": "Helado sabor huevo de chocolate",
-      "image": "./img/huevo.jpg",
-      "extraInfo": "Tarrina 1 L.",
-      "price": 2.55
+      "name": "Salmón Antillana",
+      "image": "./img/salmon.jpg",
+      "extraInfo": "Salmón Alaska (450 gr)",
+      "price": 15700
     },
     {
       "id": 8,
-      "name": "Medios cocos helados",
-      "image": "./img/medio-coco-helado.jpg",
-      "extraInfo": "Caja 2 ud. (350 ml)",
-      "price": 2.05
+      "name": "Nuggets kokoriko",
+      "image": "./img/nuggets.png",
+      "extraInfo": "Bolsa 30 ud. (300 gr)",
+      "price": 7400
+    },
+    {
+      "id": 9,
+      "name": "Pasta Frescampo",
+      "image": "./img/pasta.jpg",
+      "extraInfo": "Pasta Penne (500 gr)",
+      "price": 4400
+    },
+    {
+      "id": 10,
+      "name": "Champiñones Frescampo",
+      "image": "./img/champinones.jpg",
+      "extraInfo": "Champiñones Tajados (250 gr)",
+      "price": 7700
+    },
+    {
+      "id": 11,
+      "name": "Helado Frescampo",
+      "image": "./img/helado.png",
+      "extraInfo": "Helado Cookies Cream 1 L.",
+      "price": 13455
+    },
+    {
+      "id": 12,
+      "name": "Mini Tostadas",
+      "image": "./img/tostadas.png",
+      "extraInfo": "Mini tostadas (100 gr)",
+      "price": 2800
     }
   ]

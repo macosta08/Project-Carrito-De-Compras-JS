@@ -41,7 +41,7 @@ async function loadProducts() {
                     <div class="card-body">
                         <div class="card-title-div"><h5 class="card-title">${product.name}</h5></div>
                         <p class="card-text">${product.extraInfo}</p>
-                        <p class="card-text">${product.price} € / Unidad</p>
+                        <p class="card-text">$ ${product.price} / Unidad</p>
                         <button type="button" class="btn btn-primary btn-cart" onClick=(addProductCart(${product.id}))>Añadir al carrito</button>
                     </div>
                 </div>
